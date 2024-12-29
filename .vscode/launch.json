@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/imseungchae/Documents/C_practice",
-      "program": "/Users/imseungchae/Documents/C_practice/build/Debug/outDebug"
+      "cwd": "/Users/imseungchae/Documents/C_practice/C_practice",
+      "program": "/Users/imseungchae/Documents/C_practice/C_practice/build/Debug/outDebug"
     }
   ]
 }
