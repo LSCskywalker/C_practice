@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/imseungchae/Documents/c_practice/C_practice/practice'
+relocations:     []
+...
